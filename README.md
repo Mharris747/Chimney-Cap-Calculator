@@ -1,1 +1,0 @@
-# Chimney-Cap-Calculator
